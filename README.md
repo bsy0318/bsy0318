@@ -10,13 +10,6 @@
   I also have deep expertise in handling both relational and spatial databases.
 </p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsy0318&count_private=true&show_icons=true&hide=contribs,prs&theme=tokyonight&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsy0318&layout=compact&theme=tokyonight&langs_count=6" height="150" />
-</div>
-
 <br/>
 
 ### 🧠 Core Intelligence & Languages
